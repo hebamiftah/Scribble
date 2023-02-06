@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">NotesApp</string>
+    <string name="app_name" translatable="false">Scribble</string>
 
     <!-- Drawer menu -->
     <string name="notes">Notes</string>
